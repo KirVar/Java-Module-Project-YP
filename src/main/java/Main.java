@@ -89,7 +89,7 @@ public class Main {
                         break;
                 }
             }
-            System.out.println(namesList.get(n) + " " + countsList.get(n) + " " + text3);
+            System.out.println(namesList.get(n) + "  " + countsList.get(n) + "  " + text3);
 
         }
         resultCount = (allCount / i);
@@ -117,7 +117,7 @@ public class Main {
                     break;
             }
         }
-        System.out.println("Доля суммы всех товаров на каждого равна: " + text + " " + text2); //итоговый вывод суммы на каждого в нужном формате и с правильным окончанием
+        System.out.println("Доля суммы всех товаров на каждого равна: " + text + "  " + text2); //итоговый вывод суммы на каждого в нужном формате и с правильным окончанием
     }
 }
 
